@@ -31,6 +31,9 @@
     },
     "plugins": [
       "expo-av"
-    ]
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
   }
 }
